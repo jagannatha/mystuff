@@ -10,7 +10,7 @@ if people<dogs:
 if people>dogs:
  print"The world id dry!"
 
-dogs += 5
+dogs += 5 #the code x+=is the same as doing x=x+1
 if people>=dogs:
  print "People are gretaer therb or equal to dogs"
 if people<=dogs:
